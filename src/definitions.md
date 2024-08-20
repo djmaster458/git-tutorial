@@ -21,3 +21,7 @@ Depending on the files changes and timings, Git will either automatically handle
 ### Pull Request
 A pull request is a feature of GitHub that allows your feature branch to be reviewed before merging into another branch.
 This allows for developers to review each others' code for bugs or missing specifications.
+
+-------
+
+<img width="533" alt="image" src="https://github.com/user-attachments/assets/8f93c5e7-dce9-4a04-a8de-3a0f54680ccf">
