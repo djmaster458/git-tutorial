@@ -172,3 +172,14 @@ gitGraph
     checkout main
     merge feature-branch id: "Delta"
 ```
+
+## Assignment
+Let's practice what we have learned so far:
+
+1. Pair up with a partner
+2. Clone this repository
+3. Each person will make two contributions following the basic workflow steps 1-6
+   1. Edit this page replacing each occurrence of `Beta` with another name of your choice
+   2. Find a useful Git command and add it to the `useful_commands.md` file
+4. Each person should make a branch named `<last-name>-assignment1`
+5. Create a pull request and review your partner's pull request with appropriate comments
